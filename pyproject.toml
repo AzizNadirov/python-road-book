@@ -1,7 +1,10 @@
 [project]
 name = "python-road-book"
+authors = [{name = "Aziz Nadirov", email = "eziznadirov@gmail.com"}]
 version = "0.1.0"
 description = "'Python Yolu' book code repo "
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.1.0",
+]
