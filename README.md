@@ -1,5 +1,7 @@
 # Python Yolu
 
+![alt](./static/book-cover.jpg)
+
 ### Nümunə kodlar və Tapşırıqların həll nümunələri
 
 Hey, burda "Python Yolu" kitabımın nümunə kodlarının həll nümunələri yer alır. Əlavə olaraq.
